@@ -1,0 +1,253 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<meta name="author" content="Flux User" >
+<meta name="description" content="My Website" >
+<meta name="keywords" content="Flux, Mac" >
+<link href="main.css" rel="stylesheet" type="text/css" >
+<link href="css/impress-demo.css" rel="stylesheet" >
+
+<title>Visual Keyword</title>
+</head>
+<body style="" >
+	<div id="impress" >
+		<div id="title" class="step slide" data-x="-5000" data-y="-2000" >
+			<br>
+			<q style="text-align:center; " >Visual Keyword</q><br>
+			<li style="text-align:center; " >Video Repository/Stream Search Engine</li>
+			<br><br><br>
+			<div style="text-align:center; margin-bottom:2cm; " >Dingcheng Ren</div>
+		</div>
+
+		<div id="usecase" class="step slide" data-x="-4000" data-y="-2000" >
+			<img src="images/userview.png" alt="" style="position:relative; height:638px; left:74px; top:-8px; " >
+		<div style="position:absolute; width:161px; height:82px; left:201px; top:82px; " >Example<br>Use Case</div></div>
+
+		<div id="labelbased" class="step slide" data-x="-3000" data-y="-2000" >
+			<h1>Label-based Approaches</h1><br>
+			<li>Tags, descriptions, and meta-data of videos</li>
+			<li>Black box view of video</li><br>
+			<h2>Advantages:</h2>
+			<li>Textual data: fast to work with</li>
+			<li>Borrow technologies from regular search engine, recommender system, etc.</li><br>
+			<h2>Disadvantages:</h2>
+			<li>Subjective, inaccurate, incomplete</li>
+			<li>Vulnerable to malicious labels</li>
+			<li>High labor cost of labeling</li>
+		</div>
+
+		<div id="contentbased" class="step slide" data-x="-3000" data-y="-2000" data-rotate-x="-90">
+			<h1>Content-based Approaches</h1><br>
+			<li>Extract visual features from videos as keywords</li><br>
+			<h2>Disadvantages:</h2>
+			<li>Computationally expensive</li>
+			<li>Inability to capture abstract concepts</li><br>
+			<h2>Advantages:</h2>
+			<li>Accurate, comprehensive, objective</li>
+			<li>Reliable</li>
+			<li>No labeling cost</li>
+			<li>Capture indescribable features</li>
+			<li>...</li>
+		</div>
+		<div id="challenges" class="step slide" data-x="-2000" data-y="-2000" >
+			<h1>Challenges</h1><br>
+			<h2>Accuracy</h2>
+			<li>Robust object detection with variations in orientation and image capturing conditions</li><br>
+			<h2>Efficiency</h2>
+			<li>Fast response time and able to support real-time applications in broadcast monitoring</li><br>
+			<h2>Scalability</h2>
+			<li>Able to deal with large on-line repository as well as large number of live broadcasting channels</li>
+		</div>
+
+		<div id="architecture" class="step" data-x="-3650" data-scale="5">
+			<h1 style="text-align:center;">Architecture Overview</h1>
+			<img src="images/archview.svg" style="height:578px; width:913px; " >
+		</div>
+
+		<div id="SIFT" class="step slide" data-x="-6300" data-y="-1000">
+			<h1 style="text-align:center;">Scale Invariant Feature Transform</h1><br>
+			<div style="left:100px; position:absolute;">
+			<h2>Characteristics:</h2>
+			<li>Scale invariant, Rotation invariant</li>
+			<li>Pose invariant, Illumination invariant</li>
+			<li>Cosine similarity or Euclidean distance to measure similarity</li>
+			<br>
+			<h1>How to get it?</h1><br>
+			<h2>Keypoints detector</h2>
+			<li>Difference of Gaussian filter</li>
+			<li>Local extrema detector</li>
+			<h2>Keypoints descriptor</h2>
+			<li>Texture histogram</li>
+			<li>128 dimension descriptors</li>
+			</div>
+		</div>
+
+		<div id="flower" class="step" data-x="-7000" data-y="-1500" data-z="2000">
+			<h2 style="text-align:center;">Feature Detector (SIFT)</h2>
+			<img src="images/flowers.jpg" alt="">
+		</div>
+		<div id="flower_blur" class="step" data-x="-7000" data-y="-1500" data-z="2000">
+			<h2 style="text-align:center;">Feature Detector (SIFT)</h2>
+			<img src="images/flowers_blur.jpg" alt="">
+		</div>
+		<div id="difference" class="step" data-x="-7000" data-y="-1500" data-rotate-y="90" data-z="1590">
+			<h2 style="text-align:center;">Diff(Original,Blurred)</h2>
+			<img src="images/DOG_flowers.jpg" alt="">
+		</div>
+		<div id="flower_sift" class="step" data-x="-7000" data-y="-1500" data-rotate-y="180" data-z="1200">
+			<h2 style="text-align:center;">Interest Points</h2>
+			<img src="images/flowers_sift.png" alt="">
+		</div>
+		<div id="descriptor" class="step" data-x="-7000" data-y="-2200" data-rotate-y="180" data-z="1200">
+			<h2 style="text-align:center;">Descriptors</h2>
+			<img src="images/descriptors.png" alt="" width="800">
+		</div>
+
+		<div id="fast_response" class="step slide" data-x="-6300" data-y="0">
+			<h1>Improving response time</h1>
+			<br>
+			<h2>Keypoint detection is expensive</h2>
+			<br><br>
+			<h2>Solution: Don't do it!</h2>
+			<li>Optical flow to keep track of keypoints already detected in a frame</li>
+			<li>Extremely fast comparing to keypoint re-detection</li>
+			<li>As scene changes, tracker will lose track of points</li>
+			<li>When # of tracked points drops below some threshold, re-detect.</li>
+			<br><br>
+			<h2>Result: average processing can be real-time (24fps+)</h2>
+		</div>
+
+		<div id="ffmpeg" class="step slide" data-x="-6300" data-y="1000">
+			<q>Video decoding using FFMpeg</q>
+			<br>
+			<h2>FFMpeg can:</h2>
+			<ul>
+				<li>Decode any popular video codec and format</li>
+				<ul><li>flv, mpeg, mov, avi, etc.</li></ul>
+				<li>Fetch frames in different color spaces</li>
+				<ul><li>RGB, CMYK, HSV, etc.</li></ul>
+				<li>Process both video files or video streams</li>
+				<ul><li>In our case, we feed streams through standard input</li></ul>
+			</ul>
+		</div>
+
+		<div id="scalability" class="step slide" data-x="-5000" data-y="1900">
+			<q>What about scalability?</q>
+			<br>
+			<h2>Hadoop to the rescue!</h2>
+			<ul>
+				<li>Distributed storage <b>(HDFS)</b></li>
+				<li>Distributed job execution <b>(Map-Reduce)</b></li>
+				<li>Failure handling</li>
+				<li>Computation goes to data</li>
+			</ul><br>
+			<h2>Map-Reduce:</h2>
+			<ul>
+				<li>Mappers and Reducers</li>
+				<li>Atom data unit is key value pair</li>
+			</ul>
+		</div>
+
+		<div id="hadoop-cluster" class="step slide" data-x="-5000" data-y="2600">
+			<h1 style="text-align:center;">Map-Reduce Architecture</h1>
+			<br><br>
+			<img src="images/mrfigure.png">
+		</div>
+
+		<div id="sample-code" class="step slide" data-x="-5000" data-y="3300">
+			<h1 style="text-align:center;">Map-Reduce Sample Code</h1>
+			<br><br>
+			<img src="images/mapred_samplecode.png" width="100%">
+		</div>
+
+		<div id="mr-visual-subscribing" class="step slide" data-x="-4000" data-y="1900">
+			<h1 style="text-align:center;">Visual Object Subscription</h1>
+			<br><br>
+			<ul>
+				<li>Users submit object images</li>
+				<li>Visual engine extracts visual keywords</li>
+				<li>as collection of SIFT descriptors</li>
+				<li>Visual keywords dictionary is kept in Hadoop's distributed cache</li>
+			</ul>
+		</div>
+
+		<div id="mr-visual-indexing" class="step slide" data-x="-3000" data-y="1900">
+			<h1 style="text-align:center;">MR Visual Keyword Indexing</h1>
+			<br>
+			<h2>Mapper:</h2>
+			<ul>
+				<li>Input:</li>
+				<ul>
+					<li>Key: Video ID</li>
+					<li>Value: Video file or stream URI</li>
+				</ul>
+				<li>Output:</li>
+				<ul>
+					<li>Key: Object ID</li>
+					<li>Value: Video ID, occrence frame #</li>
+				</ul>
+			</ul>
+			<h2>Reducer:</h2>
+			<ul>
+				<li>Input:</li>
+				<ul>
+					<li>Key: Object ID</li>
+					<li>Value: Array of (Video ID, occrence frame #)</li>
+				</ul>
+				<li>Output:</li>
+				<ul>
+					<li>Inverted Index of object occurences in videos</li>
+					<li>Example:</li>
+					<ul>
+						<li>Object1: Video1,frame#; Video2,frame#; ...</li>
+						<li>Object2: Video2,frame#; Video5,frame#; ...</li>
+
+					</ul>
+				</ul>
+			</ul>
+		</div>
+
+		<div id="mr-visual-query" class="step slide" data-x="-2000" data-y="1900">
+			<h1 style="text-align:center;">MR Visual Keyword Query</h1>
+			<br>
+			<h2>For monitoring, we are already done.</h2>
+			<br>
+			<h2>For searching:</h2>
+			<ul>
+				<li>Translate query to visual keyword representation</li>
+				<li>Put query in the distributed cache</li>
+				<li>Mapper:</li>
+				<ul>
+					<li>Input: (ObjectID, VideoID_list)</li>
+					<li>Output: (*, VideoID_list)</li>
+				</ul>
+				<li>Reducer concatenates the output of Mapper</li>
+			</ul>
+		</div>
+
+		<div id="madewith" class="step" data-rotate-y="0">
+			<q style="text-align:center;">Presentation made with</q>
+		</div>
+		<div id="impressjs" class="step" data-rotate-y="30">
+			<br><br>
+			<h2 style="text-align:center;">impress.js</h2>
+		</div>
+		<div id="html" class="step" data-rotate-z="15">
+			<br><br><br><br>
+			<h2 style="text-align:center;">HTML</h2>
+		</div>
+		<div id="css" class="step" data-rotate-y="45">
+			<br><br><br><br><br><br>
+			<h2 style="text-align:center;">css</h2>
+		</div>
+
+
+
+		<div id="end" class="step" data-x="-2000" data-scale="3" data-z="3000" data-rotate-y="30">
+			<h1 style="text-align:center; text-shadow: 0.1em 0.1em 0.2em #333">The End</h1>
+			<h1 style="text-align:center; text-shadow: 0.1em 0.1em 0.2em #333">Thanks!</h1>
+		</div>
+	</div>
+	<script src="scripts/impress.js" ></script>
+	<script>impress().init();</script>
+
+</body></html>

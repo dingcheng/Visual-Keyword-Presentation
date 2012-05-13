@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:gliffy="http://www.gliffy.com"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1159px" height="720px"
+	 viewBox="0 0 1159 720" enable-background="new 0 0 1159 720" xml:space="preserve">
+<g transform="translate(146.0,120.0) rotate(0 45.0 45.0)">
+	<g transform="translate(4.0,4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="4,18 94,18 64,108 -26,108 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="134.1292" y1="660.1455" x2="134.1292" y2="658.8955" gradientTransform="matrix(120 0 0 -90 -16061.4668 59408.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FF6600"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_1_)" stroke="#333333" stroke-width="2" points="4,18 94,18 64,108 -26,108 	"/>
+	<g transform="translate(0.0,32.0)">
+		<text transform="matrix(1 0 0 1 9.6497 15)" font-family="'ArialMT'" font-size="18">Visual</text>
+		<text transform="matrix(1 0 0 1 7.9885 37.2002)" font-family="'ArialMT'" font-size="18">Object</text>
+		<text transform="matrix(1 0 0 1 8.9861 59.4004)" font-family="'ArialMT'" font-size="18">Image</text>
+	</g>
+</g>
+<g transform="translate(101.0,245.5) rotate(0 50.0 37.5)">
+	<g transform="translate(4.0,4.0)">
+		<rect x="-11" y="18" fill="#A8A8A8" fill-opacity="0.6" width="100" height="75"/>
+	</g>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="178.655" y1="534.5234" x2="178.655" y2="533.2734" gradientTransform="matrix(100 0 0 -75 -17826.5234 40088.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<rect x="-11" y="18" fill="url(#SVGID_2_)" stroke="#333333" stroke-width="2" width="100" height="75"/>
+	<g transform="translate(0.0,24.5)">
+		<text transform="matrix(1 0 0 1 8.9851 15)" font-family="'ArialMT'" font-size="18">Interest</text>
+		<text transform="matrix(1 0 0 1 13.9861 37.2002)" font-family="'ArialMT'" font-size="18">Points</text>
+		<text transform="matrix(1 0 0 1 0.9783 59.4004)" font-family="'ArialMT'" font-size="18">Detection</text>
+	</g>
+</g>
+<g transform="translate(43.0,364.5) rotate(0 50.0 37.5)">
+	<g transform="translate(4.0,4.0)">
+		<rect x="-11" y="18" fill="#A8A8A8" fill-opacity="0.6" width="100" height="75"/>
+	</g>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="236.655" y1="415.5244" x2="236.655" y2="414.2744" gradientTransform="matrix(100 0 0 -75 -23626.5234 31163.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<rect x="-11" y="18" fill="url(#SVGID_3_)" stroke="#333333" stroke-width="2" width="100" height="75"/>
+	<g transform="translate(0.0,24.5)">
+		<text transform="matrix(1 0 0 1 7.9832 15)" font-family="'ArialMT'" font-size="18">Feature</text>
+		<text transform="matrix(1 0 0 1 -2.01 37.2002)" font-family="'ArialMT'" font-size="18">Descriptor</text>
+		<text transform="matrix(1 0 0 1 -1.0168 59.4004)" font-family="'ArialMT'" font-size="18">Extraction</text>
+	</g>
+</g>
+<g transform="translate(191.0,210.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v8.875c0,5.917-2.959,8.875-8.875,8.875
+		h-22.25c-5.917,0-8.875,3.333-8.875,10v4.75"/>
+	<g transform="translate(-40.0,35.5) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(-1.6875,17.75)">
+	</g>
+</g>
+<g transform="translate(93.0,364.5)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,15V6C-11-0.666-7.667-4-1-4h38
+		c6.666,0,10-3.333,10-10v-12"/>
+	<g transform="translate(0.0,0.0) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(9.0,-22.0)">
+	</g>
+</g>
+<g transform="translate(192.0,496.0) rotate(0 45.0 45.0)">
+	<g transform="translate(4.0,4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="4,18 94,18 64,108 -26,108 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="88.1296" y1="284.1455" x2="88.1296" y2="282.8955" gradientTransform="matrix(120 0 0 -90 -10541.4668 25568.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_4_)" stroke="#333333" stroke-width="2" points="4,18 94,18 64,108 -26,108 	"/>
+	<g transform="translate(0.0,42.0)">
+		<text transform="matrix(1 0 0 1 9.6497 15)" font-family="'ArialMT'" font-size="18">Visual</text>
+		<text transform="matrix(1 0 0 1 -1.0159 37.2002)" font-family="'ArialMT'" font-size="18">Keyword</text>
+	</g>
+</g>
+<g transform="translate(192.0,541.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-14,18h-11.5c-6.667,0-10-3.333-10-10v-119
+		c0-6.667-3.334-10-10-10H-60"/>
+	<g transform="translate(0.0,0.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(-24.5,-49.5)">
+	</g>
+</g>
+<g transform="translate(273.0,302.6875) rotate(0 62.0 57.3125)">
+	<g transform="translate(4.0,4.0)">
+		<path fill="#A8A8A8" fill-opacity="0.6" d="M-11,18C-11,8.448,9.666,3.672,51,3.672c41.333,0,62,4.776,62,14.328v100.297
+			c0,9.552-20.667,14.328-62,14.328c-41.334,0-62-4.776-62-14.328V18z"/>
+	</g>
+	
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="7.2053" y1="477.6416" x2="7.2053" y2="476.3916" gradientTransform="matrix(124 0 0 -128.9531 -842.4675 61564.8398)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#0066CC"/>
+	</linearGradient>
+	<path fill="url(#SVGID_5_)" stroke="#333333" stroke-width="2" d="M-11,18C-11,8.448,9.666,3.672,51,3.672
+		c41.333,0,62,4.776,62,14.328v100.297c0,9.552-20.667,14.328-62,14.328c-41.334,0-62-4.776-62-14.328V18z"/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,18c0,9.552,20.666,14.328,62,14.328c41.333,0,62-4.776,62-14.328"/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,25.164c0,9.552,20.666,14.328,62,14.328c41.333,0,62-4.776,62-14.328"
+		/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,32.328c0,9.552,20.666,14.328,62,14.328c41.333,0,62-4.776,62-14.328"
+		/>
+	<g transform="translate(0.0,30.3125)">
+		<text transform="matrix(1 0 0 1 26.6497 37.2002)" font-family="'ArialMT'" font-size="18">Visual</text>
+		<text transform="matrix(1 0 0 1 15.9841 59.4004)" font-family="'ArialMT'" font-size="18">Keyword</text>
+		<text transform="matrix(1 0 0 1 -3.0266 81.5996)" font-family="'ArialMT'" font-size="18">Subscriptions</text>
+	</g>
+</g>
+<g transform="translate(273.0,360.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-14,18h-23c-6.667,0-10,3.334-10,10v126"/>
+	<g transform="translate(0.0,0.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(-36.0,40.0)">
+	</g>
+</g>
+<g transform="translate(117.0,20.5) rotate(0 77.0 30.5)">
+	<g transform="translate(4.0,4.0)">
+		<path fill="#A8A8A8" fill-opacity="0.6" d="M19.5,18h93c8.422,0,15.611,2.978,21.566,8.933C140.023,32.889,143,40.078,143,48.5
+			s-2.978,15.611-8.934,21.567C128.112,76.022,120.922,79,112.5,79h-93c-8.423,0-15.611-2.978-21.567-8.933
+			C-8.022,64.111-11,56.922-11,48.5s2.978-15.611,8.933-21.567C3.889,20.978,11.077,18,19.5,18z"/>
+	</g>
+	
+		<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="163.6516" y1="759.3574" x2="163.6516" y2="758.1074" gradientTransform="matrix(154 0 0 -61 -25136.4121 46323.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_6_)" stroke="#333333" stroke-width="2" d="M19.5,18h93c8.422,0,15.611,2.978,21.566,8.933
+		C140.023,32.889,143,40.078,143,48.5s-2.978,15.611-8.934,21.567C128.112,76.022,120.922,79,112.5,79h-93
+		c-8.423,0-15.611-2.978-21.567-8.933C-8.022,64.111-11,56.922-11,48.5s2.978-15.611,8.933-21.567C3.889,20.978,11.077,18,19.5,18z"
+		/>
+	<g transform="translate(0.0,27.5)">
+		<text transform="matrix(1 0 0 1 4.1335 15)" font-family="'ArialMT'" font-size="18">Visual Keyword</text>
+		<text transform="matrix(1 0 0 1 18.9739 37.2002)" font-family="'ArialMT'" font-size="18">Subscribing</text>
+	</g>
+</g>
+<g transform="translate(191.0,81.5)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v9.625c0,6.417,0,9.625,0,9.625l0,0l0,0
+		V53.5"/>
+	<g transform="translate(0.0,38.5) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(0.0,14.4375)">
+	</g>
+</g>
+<g transform="translate(21.0,492.25) rotate(0 50.0 49.75)">
+	<g transform="translate(4.0,4.0)">
+		<rect x="-11" y="18" fill="#A8A8A8" fill-opacity="0.6" width="100" height="99.5"/>
+	</g>
+	
+		<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="258.6555" y1="287.9521" x2="258.6555" y2="286.7021" gradientTransform="matrix(100 0 0 -99.5 -25826.5234 28644.4375)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<rect x="-11" y="18" fill="url(#SVGID_7_)" stroke="#333333" stroke-width="2" width="100" height="99.5"/>
+	<g transform="translate(0.0,25.75)">
+		<text transform="matrix(1 0 0 1 -3.5173 15)" font-family="'ArialMT'" font-size="18">Dimension</text>
+		<text transform="matrix(1 0 0 1 28.0002 37.2002)" font-family="'ArialMT'" font-size="18">lity</text>
+		<text transform="matrix(1 0 0 1 -1.5266 59.4004)" font-family="'ArialMT'" font-size="18">Reduction</text>
+		<text transform="matrix(1 0 0 1 14.5002 81.5996)" font-family="'ArialMT'" font-size="18">(PCA)</text>
+	</g>
+</g>
+<g transform="translate(71.0,492.25)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,15V1.625c0-6.667,0-10,0-10l0,0l0,0V-34.75"
+		/>
+	<g transform="translate(0.0,0.0) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(0.0,-21.375)">
+	</g>
+</g>
+<g transform="translate(192.0,541.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-14,18h-58c-6.667,0-10,0.167-10,0.5V19"/>
+	<g transform="translate(0.0,0.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(-30.75,0.0)">
+	</g>
+</g>
+<g transform="translate(428.0,121.5) rotate(0 50.0 37.5)">
+	<g transform="translate(4.0,4.0)">
+		<path fill="#A8A8A8" fill-opacity="0.6" d="M-11,18c0-6.25,16.666-9.375,50-9.375c33.333,0,50,3.125,50,9.375v65.625
+			C89,89.875,72.333,93,39,93c-33.334,0-50-3.125-50-9.375V18z"/>
+	</g>
+	
+		<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-148.345" y1="658.6035" x2="-148.345" y2="657.3535" gradientTransform="matrix(100 0 0 -84.375 14873.4756 55557.2539)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FF6600"/>
+	</linearGradient>
+	<path fill="url(#SVGID_8_)" stroke="#333333" stroke-width="2" d="M-11,18c0-6.25,16.666-9.375,50-9.375
+		c33.333,0,50,3.125,50,9.375v65.625C89,89.875,72.333,93,39,93c-33.334,0-50-3.125-50-9.375V18z"/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,18c0,6.25,16.666,9.375,50,9.375c33.333,0,50-3.125,50-9.375"/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,22.688c0,6.25,16.666,9.375,50,9.375c33.333,0,50-3.125,50-9.375"/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,27.375c0,6.25,16.666,9.375,50,9.375c33.333,0,50-3.125,50-9.375"/>
+	<g transform="translate(0.0,34.5)">
+		<text transform="matrix(1 0 0 1 16.1438 22)" font-family="'ArialMT'" font-size="18">Video</text>
+		<text transform="matrix(1 0 0 1 -4.0183 44.2002)" font-family="'ArialMT'" font-size="18">Repository</text>
+	</g>
+</g>
+<g transform="translate(567.5,131.0) rotate(90 73.5 64.0)">
+	<g transform="translate(4.0,-4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="18,49.4 101,49.4 101,11 165,75 101,139 101,100.6 18,100.6 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="656.2764" y1="423.1292" x2="657.7764" y2="423.1292" gradientTransform="matrix(0 -128 -147 0 62144.4648 84078.375)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FF6600"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_9_)" stroke="#333333" stroke-width="2" points="18,49.4 101,49.4 101,11 165,75 101,139 101,100.6 
+		18,100.6 	"/>
+	<g transform="translate(0.0,61.0)">
+		<text transform="matrix(1 0 0 1 49.6328 7.9998)" font-family="'ArialMT'" font-size="18">Live Video</text>
+		<text transform="matrix(1 0 0 1 62.4922 30.199)" font-family="'ArialMT'" font-size="18">Stream</text>
+	</g>
+</g>
+<g transform="translate(433.5,310.75) rotate(0 79.5 52.25)">
+	<g transform="translate(4.0,4.0)">
+		<rect x="-11" y="18" fill="#A8A8A8" fill-opacity="0.6" width="159" height="104.5"/>
+	</g>
+	
+		<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="-152.7903" y1="469.498" x2="-152.7903" y2="468.1492" gradientTransform="matrix(159 0 0 -104.5 24362.0859 49052.4375)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<rect x="-11" y="18" fill="url(#SVGID_10_)" stroke="#333333" stroke-width="2" width="159" height="112.85"/>
+	<g transform="translate(0.0,18.25)">
+		<text transform="matrix(1 0 0 1 3.9573 15)" font-family="'ArialMT'" font-size="18">Hadoop Mapper</text>
+		<text transform="matrix(1 0 0 1 5.1306 37.2002)" font-family="'ArialMT'" font-size="18">(Invoking Visual</text>
+		<text transform="matrix(1 0 0 1 33.4841 59.4004)" font-family="'ArialMT'" font-size="18">Keyword</text>
+		<text transform="matrix(1 0 0 1 31.9812 81.5996)" font-family="'ArialMT'" font-size="18">Matching</text>
+		<text transform="matrix(1 0 0 1 31.99 103.7998)" font-family="'ArialMT'" font-size="18">program)</text>
+	</g>
+</g>
+<g transform="translate(478.0,196.5)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v47.125c0,6.667,0,10,0,10l0,0l0,0v54.125"
+		/>
+	<g transform="translate(0.0,114.25) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(0.0,52.125)">
+	</g>
+</g>
+<g transform="translate(641.0,268.5)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v11.125c0,6.667-3.334,10-10,10h-76.2
+		c-6.667,0-10,3.333-10,10v8.125"/>
+	<g transform="translate(-96.20000000000005,42.25) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(-28.100000000000023,21.125)">
+	</g>
+</g>
+<g transform="translate(433.5,363.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-14,18h-6.125c-6.084,0-9.125,0-9.125,0l0,0l0,0
+		H-47.5"/>
+	<g transform="translate(0.0,0.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(-13.6875,0.0)">
+	</g>
+</g>
+<g transform="translate(502.0,18.0) rotate(0 50.0 25.0)">
+	<g transform="translate(4.0,4.0)">
+		<path fill="#A8A8A8" fill-opacity="0.6" d="M14,18h50c6.903,0,12.796,2.441,17.677,7.322C86.559,30.204,89,36.097,89,43
+			s-2.441,12.796-7.323,17.678C76.796,65.559,70.904,68,64,68H14c-6.904,0-12.797-2.441-17.678-7.322C-8.559,55.796-11,49.903-11,43
+			s2.44-12.796,7.322-17.678C1.203,20.441,7.096,18,14,18z"/>
+	</g>
+	
+		<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="-222.345" y1="761.6621" x2="-222.345" y2="760.4121" gradientTransform="matrix(100 0 0 -50 22273.4766 38088.5938)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_11_)" stroke="#333333" stroke-width="2" d="M14,18h50c6.903,0,12.796,2.441,17.677,7.322
+		C86.559,30.204,89,36.097,89,43s-2.441,12.796-7.323,17.678C76.796,65.559,70.904,68,64,68H14c-6.904,0-12.797-2.441-17.678-7.322
+		C-8.559,55.796-11,49.903-11,43s2.44-12.796,7.322-17.678C1.203,20.441,7.096,18,14,18z"/>
+	<g transform="translate(0.0,22.0)">
+		<text transform="matrix(1 0 0 1 16.1438 15)" font-family="'ArialMT'" font-size="18">Video</text>
+		<text transform="matrix(1 0 0 1 4.9729 37.2002)" font-family="'ArialMT'" font-size="18">Indexing</text>
+	</g>
+</g>
+<g transform="translate(552.0,68.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v16.75c0,6.667-3.334,10-10,10h-54
+		c-6.667,0-10,3.333-10,10V68.5"/>
+	<g transform="translate(-74.0,53.5) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(-17.0,26.75)">
+	</g>
+</g>
+<g transform="translate(552.0,68.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v16.75c0,6.667,3.333,10,10,10h69
+		c6.666,0,10,3.333,10,10V68.5"/>
+	<g transform="translate(89.0,53.5) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(24.5,26.75)">
+	</g>
+</g>
+<g transform="translate(337.5,488.0) rotate(0 55.5 45.0)">
+	<g transform="translate(4.0,4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="7.5,18 118.5,18 81.5,108 -29.5,108 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="-56.9226" y1="292.1455" x2="-56.9226" y2="290.8955" gradientTransform="matrix(148 0 0 -90 8469.0889 26288.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_12_)" stroke="#333333" stroke-width="2" points="7.5,18 118.5,18 81.5,108 -29.5,108 	"/>
+	<g transform="translate(0.0,21.0)">
+		<text transform="matrix(1 0 0 1 20.1497 15)" font-family="'ArialMT'" font-size="18">Visual</text>
+		<text transform="matrix(1 0 0 1 9.4841 37.2002)" font-family="'ArialMT'" font-size="18">Keyword</text>
+		<text transform="matrix(1 0 0 1 0.9807 59.4004)" font-family="'ArialMT'" font-size="18">Occurence</text>
+		<text transform="matrix(1 0 0 1 30.4944 81.5996)" font-family="'ArialMT'" font-size="18">List</text>
+	</g>
+</g>
+<g transform="translate(481.20000000000005,415.25)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-14.2,26.35v23.263
+		c0,5.88-3.219,8.819-9.657,8.819h-65.858c-6.438,0-9.657,2.939-9.657,8.82v20.616"/>
+	<g transform="translate(-88.19999999999999,72.75) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9.826-16L-16-11.172l6.174,4.829V-16z"/>
+	</g>
+	<g transform="translate(-24.099999999999994,36.375)">
+	</g>
+</g>
+<g transform="translate(491.5,478.75) rotate(0 70.5 52.25)">
+	<g transform="translate(4.0,4.0)">
+		<rect x="-11" y="18" fill="#A8A8A8" fill-opacity="0.6" width="141" height="104.5"/>
+	</g>
+	
+		<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="-211.0188" y1="301.4785" x2="-211.0188" y2="300.2285" gradientTransform="matrix(141 0 0 -104.5 29813.0898 31496.4375)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<rect x="-11" y="18" fill="url(#SVGID_13_)" stroke="#333333" stroke-width="2" width="141" height="104.5"/>
+	<g transform="translate(0.0,28.25)">
+		<text transform="matrix(1 0 0 1 27.9734 15)" font-family="'ArialMT'" font-size="18">Hadoop</text>
+		<text transform="matrix(1 0 0 1 1.9841 37.2002)" font-family="'ArialMT'" font-size="18">Reducer (With</text>
+		<text transform="matrix(1 0 0 1 25.9739 59.4004)" font-family="'ArialMT'" font-size="18">indexing</text>
+		<text transform="matrix(1 0 0 1 8.9758 81.5996)" font-family="'ArialMT'" font-size="18">functionality)</text>
+	</g>
+</g>
+<g transform="translate(448.5,533.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18H0.5c6.666,0,10,0,10,0l0,0l0,0H29"/>
+	<g transform="translate(43.0,0.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(16.5,0.0)">
+	</g>
+</g>
+<g transform="translate(699.0,330.1875) rotate(0 53.0 56.8125)">
+	<g transform="translate(4.0,4.0)">
+		<path fill="#A8A8A8" fill-opacity="0.6" d="M-11,18C-11,8.531,6.666,3.797,42,3.797c35.333,0,53,4.734,53,14.203v99.422
+			c0,9.469-17.667,14.203-53,14.203c-35.334,0-53-4.734-53-14.203V18z"/>
+	</g>
+	
+		<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="-419.1838" y1="450.1387" x2="-419.1838" y2="448.8887" gradientTransform="matrix(106 0 0 -127.8281 44475.4727 57512.1523)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#0066CC"/>
+	</linearGradient>
+	<path fill="url(#SVGID_14_)" stroke="#333333" stroke-width="2" d="M-11,18C-11,8.531,6.666,3.797,42,3.797
+		c35.333,0,53,4.734,53,14.203v99.422c0,9.469-17.667,14.203-53,14.203c-35.334,0-53-4.734-53-14.203V18z"/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,18c0,9.469,17.666,14.203,53,14.203c35.333,0,53-4.734,53-14.203"/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,25.102c0,9.469,17.666,14.203,53,14.203c35.333,0,53-4.734,53-14.203"
+		/>
+	<path fill="none" stroke="#333333" stroke-width="2" d="M-11,32.203c0,9.469,17.666,14.203,53,14.203c35.333,0,53-4.734,53-14.203"
+		/>
+	<g transform="translate(0.0,29.8125)">
+		<text transform="matrix(1 0 0 1 17.6497 37.2002)" font-family="'ArialMT'" font-size="18">Visual</text>
+		<text transform="matrix(1 0 0 1 6.9846 59.4004)" font-family="'ArialMT'" font-size="18">Keyword</text>
+		<text transform="matrix(1 0 0 1 19.9827 81.5996)" font-family="'ArialMT'" font-size="18">Index</text>
+	</g>
+</g>
+<g transform="translate(632.5,531.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18H98.5c6.666,0,10-3.333,10-10v-74.188"/>
+	<g transform="translate(119.5,-87.1875) rotate(450.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M27,6l-7,5l7,5V6z"/>
+	</g>
+	<g transform="translate(93.34375,0.0)">
+		<rect x="-78.676" y="6" fill="#FFFFFF" width="135.351" height="20"/>
+		<text transform="matrix(1 0 0 1 -71.531 20)" font-family="'ArialMT'" font-size="18">Text File based</text>
+	</g>
+</g>
+<g transform="translate(632.5,510.1)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="6,12" d="M-11,18h23.25c6.666,0,10-3.333,10-10V-95.1
+		c0-6.666,3.333-10,10-10H52.5"/>
+	<g transform="translate(66.5,-123.10000000000002) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(33.25,-41.55000000000001)">
+		<rect x="-44" y="6" fill="#FFFFFF" width="66" height="20"/>
+		<text transform="matrix(1 0 0 1 -38.0134 19.9998)" font-family="'ArialMT'" font-size="18">HBase</text>
+	</g>
+</g>
+<g transform="translate(897.0,19.0) rotate(0 50.0 25.0)">
+	<g transform="translate(4.0,4.0)">
+		<path fill="#A8A8A8" fill-opacity="0.6" d="M14,18h50c6.903,0,12.796,2.441,17.677,7.322C86.559,30.204,89,36.097,89,43
+			s-2.441,12.796-7.323,17.678C76.796,65.559,70.904,68,64,68H14c-6.904,0-12.797-2.441-17.678-7.322C-8.559,55.796-11,49.903-11,43
+			s2.44-12.796,7.322-17.678C1.203,20.441,7.096,18,14,18z"/>
+	</g>
+	
+		<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="-617.345" y1="760.6611" x2="-617.345" y2="759.4111" gradientTransform="matrix(100 0 0 -50 61773.4766 38038.5938)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_15_)" stroke="#333333" stroke-width="2" d="M14,18h50c6.903,0,12.796,2.441,17.677,7.322
+		C86.559,30.204,89,36.097,89,43s-2.441,12.796-7.323,17.678C76.796,65.559,70.904,68,64,68H14c-6.904,0-12.797-2.441-17.678-7.322
+		C-8.559,55.796-11,49.903-11,43s2.44-12.796,7.322-17.678C1.203,20.441,7.096,18,14,18z"/>
+	<g transform="translate(0.0,22.0)">
+		<text transform="matrix(1 0 0 1 16.1438 15)" font-family="'ArialMT'" font-size="18">Video</text>
+		<text transform="matrix(1 0 0 1 3.4875 37.2002)" font-family="'ArialMT'" font-size="18">Retrieval</text>
+	</g>
+</g>
+<g transform="translate(995.0,100.0) rotate(0 45.0 45.0)">
+	<g transform="translate(4.0,4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="4,18 94,18 64,108 -26,108 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="-714.8708" y1="680.1445" x2="-714.8708" y2="678.8945" gradientTransform="matrix(120 0 0 -90 85818.5312 61208.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FF6600"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_16_)" stroke="#333333" stroke-width="2" points="4,18 94,18 64,108 -26,108 	"/>
+	<g transform="translate(0.0,42.0)">
+		<text transform="matrix(1 0 0 1 17.4944 15)" font-family="'ArialMT'" font-size="18">Text</text>
+		<text transform="matrix(1 0 0 1 2.4866 37.2002)" font-family="'ArialMT'" font-size="18">Queries</text>
+	</g>
+</g>
+<g transform="translate(798.0,106.0) rotate(0 45.0 45.0)">
+	<g transform="translate(4.0,4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="4,18 94,18 64,108 -26,108 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="-517.8708" y1="674.1445" x2="-517.8708" y2="672.8945" gradientTransform="matrix(120 0 0 -90 62178.5312 60668.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FF6600"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_17_)" stroke="#333333" stroke-width="2" points="4,18 94,18 64,108 -26,108 	"/>
+	<g transform="translate(0.0,42.0)">
+		<text transform="matrix(1 0 0 1 8.9866 15)" font-family="'ArialMT'" font-size="18">Image</text>
+		<text transform="matrix(1 0 0 1 2.4866 37.2002)" font-family="'ArialMT'" font-size="18">Queries</text>
+	</g>
+</g>
+<g transform="translate(843.0,196.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-12,18v91c0,6.667,3.333,10,10,10h31"/>
+	<g transform="translate(44.0,101.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M21-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(0.0,62.5)">
+		<text transform="matrix(1 0 0 1 -78.3503 -4)" font-family="'ArialMT'" font-size="18">Visual</text>
+		<text transform="matrix(1 0 0 1 -89.0154 21.2002)" font-family="'ArialMT'" font-size="18">Keyword</text>
+		<text transform="matrix(1 0 0 1 -94.0173 46.4004)" font-family="'ArialMT'" font-size="18">Extraction</text>
+	</g>
+</g>
+<g transform="translate(947.0,69.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v7.75c0,5.167,2.583,7.75,7.75,7.75h77.5
+		c5.166,0,7.75,3.333,7.75,10V46"/>
+	<g transform="translate(93.0,31.0) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(29.875,15.5)">
+	</g>
+</g>
+<g transform="translate(887.0,252.0) rotate(0 47.0 45.0)">
+	<g transform="translate(4.0,4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="4.666,18 98.666,18 67.333,108 -26.667,108 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="-606.7688" y1="528.1455" x2="-606.7688" y2="526.8955" gradientTransform="matrix(125.3333 0 0 -90 76084.3047 47528.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_18_)" stroke="#333333" stroke-width="2" points="4.666,18 98.666,18 67.333,108 -26.667,108 	"/>
+	<g transform="translate(0.0,32.0)">
+		<text transform="matrix(1 0 0 1 11.6497 15)" font-family="'ArialMT'" font-size="18">Visual</text>
+		<text transform="matrix(1 0 0 1 0.9846 37.2002)" font-family="'ArialMT'" font-size="18">Keyword</text>
+		<text transform="matrix(1 0 0 1 4.4866 59.4004)" font-family="'ArialMT'" font-size="18">Queries</text>
+	</g>
+</g>
+<g transform="translate(981.0,297.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-8,18h46c6.666,0,10-3.333,10-10v-97"/>
+	<g transform="translate(0.0,0.0) rotate(0.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-2,13l-7,5l7,5V13z"/>
+	</g>
+	<g transform="translate(59.0,-14.0)">
+		<text transform="matrix(1 0 0 1 13.6497 -27)" font-family="'ArialMT'" font-size="18">Visual</text>
+		<text transform="matrix(1 0 0 1 2.9846 -1.7998)" font-family="'ArialMT'" font-size="18">Keyword</text>
+		<text transform="matrix(1 0 0 1 -6.1873 23.4004)" font-family="'ArialMT'" font-size="18">Translation</text>
+	</g>
+</g>
+<g transform="translate(843.0,106.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,15V8.75c0-6.167,3.083-9.25,9.25-9.25h85.5
+		c6.166,0,9.25-3.333,9.25-10V-19"/>
+	<g transform="translate(0.0,0.0) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(33.125,-18.5)">
+	</g>
+</g>
+<g transform="translate(863.5,393.25) rotate(0 68.5 46.75)">
+	<g transform="translate(4.0,4.0)">
+		<rect x="-11" y="18" fill="#A8A8A8" fill-opacity="0.6" width="137" height="93.5"/>
+	</g>
+	
+		<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="-583.0774" y1="386.9922" x2="-583.0774" y2="385.365" gradientTransform="matrix(137 0 0 -93.5 79939.0938 36171.4375)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<rect x="-11" y="18" fill="url(#SVGID_19_)" stroke="#333333" stroke-width="2" width="137" height="121.75"/>
+	<g transform="translate(0.0,12.75)">
+		<text transform="matrix(1 0 0 1 25.9729 26)" font-family="'ArialMT'" font-size="18">Hadoop</text>
+		<text transform="matrix(1 0 0 1 3.4866 48.2002)" font-family="'ArialMT'" font-size="18">Mapper (With</text>
+		<text transform="matrix(1 0 0 1 23.9739 70.4004)" font-family="'ArialMT'" font-size="18">indexing</text>
+		<text transform="matrix(1 0 0 1 30.9788 92.5996)" font-family="'ArialMT'" font-size="18">lookup</text>
+		<text transform="matrix(1 0 0 1 6.9758 114.7998)" font-family="'ArialMT'" font-size="18">functionality)</text>
+	</g>
+</g>
+<g transform="translate(934.0,342.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v15.625c0,6.666,0,10,0,10l0,0l0,0V66.25"
+		/>
+	<g transform="translate(0.0,51.25) rotate(270.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-9-16l-7,5l7,5V-16z"/>
+	</g>
+	<g transform="translate(0.0,20.625)">
+	</g>
+</g>
+<g transform="translate(1050.0,392.0) rotate(0 45.0 45.0)">
+	<g transform="translate(4.0,4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="4,18 94,18 64,108 -26,108 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="-769.8704" y1="388.1445" x2="-769.8704" y2="386.8945" gradientTransform="matrix(120 0 0 -90 92418.5312 34928.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#00CC00"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_20_)" stroke="#333333" stroke-width="2" points="4,18 94,18 64,108 -26,108 	"/>
+	<g transform="translate(0.0,42.0)">
+		<text transform="matrix(1 0 0 1 5.4836 15)" font-family="'ArialMT'" font-size="18">Search</text>
+		<text transform="matrix(1 0 0 1 8.4895 37.2002)" font-family="'ArialMT'" font-size="18">Result</text>
+	</g>
+</g>
+<g transform="translate(1000.5,440.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18H3.75c6.666,0,10,0,10,0l0,0l0,0H35.5"/>
+	<g transform="translate(49.5,0.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(19.75,0.0)">
+	</g>
+</g>
+<g transform="translate(753.5,575.0) rotate(0 58.5 45.0)">
+	<g transform="translate(4.0,4.0)">
+		<polygon fill="#A8A8A8" fill-opacity="0.6" points="8.5,18 125.5,18 86.5,108 -30.5,108 		"/>
+	</g>
+	
+		<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="-472.824" y1="205.1455" x2="-472.824" y2="203.8955" gradientTransform="matrix(156 0 0 -90 73808.0859 18458.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FF0000"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_21_)" stroke="#333333" stroke-width="2" points="8.5,18 125.5,18 86.5,108 -30.5,108 	"/>
+	<g transform="translate(0.0,21.0)">
+		<text transform="matrix(1 0 0 1 24.6438 15)" font-family="'ArialMT'" font-size="18">Video</text>
+		<text transform="matrix(1 0 0 1 15.9778 37.2002)" font-family="'ArialMT'" font-size="18">Content</text>
+		<text transform="matrix(1 0 0 1 5.4788 59.4004)" font-family="'ArialMT'" font-size="18">Monitoring</text>
+		<text transform="matrix(1 0 0 1 23.9983 81.5996)" font-family="'ArialMT'" font-size="18">Alarm</text>
+	</g>
+</g>
+<g transform="translate(562.0,583.25)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v26.75c0,6.667,3.333,10,10,10h178.5"/>
+	<g transform="translate(191.5,36.75) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(67.375,36.75)">
+	</g>
+</g>
+<g transform="translate(969.0,598.0) rotate(0 50.0 25.0)">
+	<g transform="translate(4.0,4.0)">
+		<path fill="#A8A8A8" fill-opacity="0.6" d="M14,18h50c6.903,0,12.796,2.44,17.678,7.322C86.559,30.204,89,36.097,89,43
+			s-2.441,12.796-7.322,17.678C76.796,65.56,70.904,68,64,68H14c-6.904,0-12.797-2.44-17.678-7.322C-8.559,55.796-11,49.903-11,43
+			s2.44-12.796,7.322-17.678C1.203,20.44,7.096,18,14,18z"/>
+	</g>
+	
+		<linearGradient id="SVGID_22_" gradientUnits="userSpaceOnUse" x1="-689.345" y1="181.6611" x2="-689.345" y2="180.4111" gradientTransform="matrix(100 0 0 -50 68973.4766 9088.5938)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_22_)" stroke="#333333" stroke-width="2" d="M14,18h50c6.903,0,12.796,2.44,17.678,7.322
+		C86.559,30.204,89,36.097,89,43s-2.441,12.796-7.322,17.678C76.796,65.56,70.904,68,64,68H14c-6.904,0-12.797-2.44-17.678-7.322
+		C-8.559,55.796-11,49.903-11,43s2.44-12.796,7.322-17.678C1.203,20.44,7.096,18,14,18z"/>
+	<g transform="translate(0.0,33.0)">
+		<text transform="matrix(1 0 0 1 22.9866 15)" font-family="'ArialMT'" font-size="18">End</text>
+	</g>
+</g>
+<g transform="translate(969.0,623.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-14,18h-36.25c-6.667,0-10,0-10,0l0,0l0,0h-49.25
+		"/>
+	<g transform="translate(0.0,0.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(-44.25,0.0)">
+	</g>
+</g>
+<g transform="translate(1095.0,482.0)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-11,18v131c0,6.667-3.334,10-10,10h-13"/>
+	<g transform="translate(-26.0,141.0) rotate(360.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M-2,13l-7,5l7,5V13z"/>
+	</g>
+	<g transform="translate(0.0,73.5)">
+	</g>
+</g>
+<g transform="translate(863.5,458.7)">
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-dasharray="23,0" d="M-14,18h-16.25c-6.667,0-10-3.334-10-10v-51.7
+		c0-6.666-3.334-10-10-10H-69.5"/>
+	<g transform="translate(0.0,0.0) rotate(180.0)">
+		<path fill="none" stroke="#000000" stroke-width="2" d="M20-23l-7,5l7,5V-23z"/>
+	</g>
+	<g transform="translate(-29.25,-15.849999999999994)">
+	</g>
+</g>
+</svg>
